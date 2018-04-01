@@ -2,7 +2,7 @@
 # Python script for calculating the (type I) equity risk solvency capital charge ("SCR") under Solvency II
 
 Python script which sources price data from Yahoo Finance for each of the OECD / EEA indices in the global index as stipulated by EOIPA. In turn, this script calculates the global index (along pre-defined weights) and the corresponding symmetric adjustment under Solvency II.
-This symmetric adjustment has been put in place by EOIPA in order to mitigate pro-cyclical market effects in equity market risks.
+This symmetric adjustment has been put in place by EOIPA in order to reduce procyclicality of capital requirements and thus systemic risk in the insurance sector.
 This adjustment is applied to the standard solvency II charge for Type I equities (39%) - whilst keeping in mind the upper and lower limit of the SCR for Type I equities (i.e. 29% and 49%).
 
 NB
