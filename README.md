@@ -9,6 +9,7 @@ NB
 
 - The Polish WIG30 index has not been included in the global index as Yahoo Finance does not offer historic data series for this index
 - Please refer to the following [link](https://eiopa.europa.eu/regulation-supervision/insurance/solvency-ii-technical-information/symmetric-adjustment-of-the-equity-capital-charge) for additional background on the symmetric adjustment of the Solvency II equity capital charge
+- The global index is appended to this repository as a separate data set (data.csv)
 
 Please note - this script requires the following packages / modules in order to function properly:
 
